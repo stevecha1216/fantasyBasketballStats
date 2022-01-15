@@ -54,7 +54,7 @@ public class GUI implements ActionListener{
 		frame.setVisible(true);
 	}
 	
-	//when buttons are pressed, reads the data in the name input field and 
+	//when buttons are pressed, reads the data in the name input field and display stats corresponding to the button pressed
 	public void actionPerformed(ActionEvent e) {
 		frame.getContentPane().removeAll();
 		ret = new JLabel("");
