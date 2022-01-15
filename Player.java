@@ -41,9 +41,7 @@ public class Player {
 		
 	}
 	
-	public Player(String name/*, int number, String team, int totalPoints, int totalRebounds, int totalAssists,
-			int totalBlocks, int totalSteals, int totalTurnovers, int ftPercent, int threePercent, int fgPercent,
-			int totalFP, int ppg, int rpg, int apg, int bpg, int spg, int fppg*/) {
+	public Player(String name) {
 		this.name = name;
 		
 	}
