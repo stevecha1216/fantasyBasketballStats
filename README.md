@@ -4,4 +4,4 @@ Practice Project to help me practice:
 -Simple OOP
 -Creating a GUI
 
-Enter a player's name in the format (First Last) and click one of the four buttons to display the stats.
+Enter a player's name in the format (First Last) and click one of the four buttons to display the stats. The stats are pulled from basketball-reference.com.
