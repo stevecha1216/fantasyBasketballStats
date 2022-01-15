@@ -1,2 +1,7 @@
 # fantasyBasketballStats
-Accepts a player's name(First Last) and pulls stats from basketball-reference.com according to user preference
+Practice Project to help me practice:
+-Web Scraping using JSoup
+-Simple OOP
+-Creating a GUI
+
+Enter a player's name in the format (First Last) and click one of the four buttons to display the stats.
