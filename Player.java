@@ -36,11 +36,6 @@ public class Player {
 	private double careerThreePercent;
 	private double careerFGPercent;
 	
-	
-	public Player(){
-		
-	}
-	
 	public Player(String name) {
 		this.name = name;
 		
